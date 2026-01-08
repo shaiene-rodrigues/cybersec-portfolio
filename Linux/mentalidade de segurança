@@ -1,7 +1,0 @@
-## Relação com Cibersegurança
-- Leitura e análise de arquivos de log
-- Identificação de tentativas de login inválidas
-- Uso de grep para buscar padrões suspeitos
-- Uso de tail para monitorar eventos recentes
-- Ajuste de permissões com chmod para proteger logs sesíveis
-Essas práticas são base para atividades de SOC e Blue Team.
