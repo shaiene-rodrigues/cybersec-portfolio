@@ -4,4 +4,4 @@
 - Uso de grep para buscar padrões suspeitos
 - Uso de tail para monitorar eventos recentes
 - Ajuste de permissões com chmod para proteger logs sesíveis
-Essas práticas são base para atividades de SOC e Blue Team. 
+Essas práticas são base para atividades de SOC e Blue Team.
