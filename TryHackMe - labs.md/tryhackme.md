@@ -17,3 +17,9 @@ Aprender que para proteger uma empresa é preciso, primeiro, conhecer suas vulne
 - Segurança ofensiva busca **identificar falhas antes que criminosos explorem**
 - Ataques éticos são feitos de forma **legal, autorizada e com foco em proteção**
 - Conhecer vulnerabilidades é essencial para criar **sistemas mais seguros**
+---
+## Observações pessoais
+> Meu primeiro contato com a plataforma TryHackMe.
+> Senti dificuldades e fiquei um pouco nervosa por causa do tempo,
+> mas entendi que essa dinâmica vai procurar melhorar meu lado ofensivo.
+---
