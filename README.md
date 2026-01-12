@@ -12,4 +12,4 @@ Construir base sólida para atuação como Analista de Segurança/SOC, registran
  - Ênfase em compreensão, não só execução
  - Documentação clara do que aprendi
    ## Status atual
-   Em formação em Gestão em Segurança e Defesa Cibernética.
+   Em formação em Gestão de Segurança e Defesa Cibernética.
